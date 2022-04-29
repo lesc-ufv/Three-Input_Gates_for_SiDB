@@ -19,5 +19,9 @@ Those designs are named:
 * `gamble:` x ∧ y ∧ z ⊕  ̄x ∧  ̄y ∧  ̄z 
 
 [1] A. N. Bahar, K. A. Wahid, S. S. Ahmadpour, and M. Mosleh, “Atomic silicon quantum dot: A new designing paradigm of an atomic logic circuit,” IEEE Transactions on Nanotechnology, vol. 19, 2020.
+
 [2] M. D. Vieira, I. G. S. Moreira, P. A. R. L. Silva, L. O. Luz, R. S. Ferreira,O. P. Vilela Neto, and J. A. M. Nacif, “Novel three-input gates for silicon quantum dot,” in 2021 34th SBC/SBMicro/IEEE/ACM Symposium on Integrated Circuits and Systems Design (SBCCI), 2021, pp. 1–6.
 
+## Operational domain
+
+The operational domain of the SiDB-based *AND* desing is available in the `operational_domain` directory.  
